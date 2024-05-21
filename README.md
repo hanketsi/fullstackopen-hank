@@ -1,2 +1,2 @@
 # fullstackopen-hank
-Fullstackopen returns
+Fullstackopen exercises
